@@ -7,9 +7,9 @@
 
 ## 👨‍💻 About Me
 
-Bioengineering undergrad at IIT Jodhpur, passionate about full-stack development, machine learning, and AI-powered applications[cite: 1, 2]. I care deeply about software craftsmanship, whether it's architecting a recommendation system that handles complex data or writing an elegant algorithm from first principles[cite: 1, 2].
+Bioengineering undergrad at IIT Jodhpur, passionate about full-stack development, machine learning, and AI-powered applications. I care deeply about software craftsmanship, whether it's architecting a recommendation system that handles complex data or writing an elegant algorithm from first principles.
 
-Currently exploring new projects and open to collaborations[cite: 2]. Would love to connect and build something crazy together![cite: 2]
+Currently exploring projects for open-source contributions and open to collaborations. Would love to connect and build something crazy together!
 
 ## 🌐 Socials
 
