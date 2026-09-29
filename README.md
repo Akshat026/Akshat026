@@ -37,3 +37,4 @@ Currently exploring projects for open-source contributions and open to collabora
   <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
+![](https://komarev.com/ghpvc/?username=Akshat026)
