@@ -11,7 +11,7 @@ Bioengineering undergrad at IIT Jodhpur, passionate about full-stack development
 
 Currently exploring projects for open-source contributions and open to collaborations. Would love to connect and build something crazy together!
 
-<img width="400" height="225" alt="jujutsu-kaisen-yuji-itadori-rainy-night-city-live-wallpaper (1)" src="https://github.com/user-attachments/assets/55f47ff0-1104-4d0b-9bf9-7828e10b9637" />
+<div align="center"><img width="400" height="225" alt="jujutsu-kaisen-yuji-itadori-rainy-night-city-live-wallpaper (1)" src="https://github.com/user-attachments/assets/55f47ff0-1104-4d0b-9bf9-7828e10b9637" /></div>
 
 
 ## 🌐 Socials
