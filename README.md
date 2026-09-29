@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/d3218d11-9156-4b8e-afe5-d1394d6a0ec2
+
 <div align="center">
   <h1>Hi there, I'm Akshat Rathore 👋</h1>
   <p>akshatrathore26 · B.Tech Bioengineering, IIT Jodhpur · Class of 2028</p>
