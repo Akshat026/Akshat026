@@ -1,7 +1,3 @@
-
-
-https://github.com/user-attachments/assets/d3218d11-9156-4b8e-afe5-d1394d6a0ec2
-
 <div align="center">
   <h1>Hi there, I'm Akshat Rathore 👋</h1>
   <p>akshatrathore26 · B.Tech Bioengineering, IIT Jodhpur · Class of 2028</p>
@@ -14,6 +10,9 @@ https://github.com/user-attachments/assets/d3218d11-9156-4b8e-afe5-d1394d6a0ec2
 Bioengineering undergrad at IIT Jodhpur, passionate about full-stack development, machine learning, and AI-powered applications. I care deeply about software craftsmanship, whether it's architecting a recommendation system that handles complex data or writing an elegant algorithm from first principles.
 
 Currently exploring projects for open-source contributions and open to collaborations. Would love to connect and build something crazy together!
+
+<img width="400" height="225" alt="jujutsu-kaisen-yuji-itadori-rainy-night-city-live-wallpaper (1)" src="https://github.com/user-attachments/assets/55f47ff0-1104-4d0b-9bf9-7828e10b9637" />
+
 
 ## 🌐 Socials
 
