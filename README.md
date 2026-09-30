@@ -17,7 +17,7 @@ Currently exploring projects for open-source contributions and open to collabora
 ## 🌐 Socials
 
 <p align="left">
-  <a href="https://github.com/Akshat026"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a><a href="https://linkedin.com/in/akshat-rathore26"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a><a href="mailto:akshatrathore26@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a><a href="https://drive.google.com/file/d/1FO5NFLxAuCy8aF5arOucCB4qUiuaasFq/view?usp=drive_link"><img src="https://img.shields.io/badge/RESUME-5A6978?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume" /></a><a href="https://www.akshxt.me"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://github.com/Akshat026"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a><a href="https://linkedin.com/in/akshat-rathore26"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a><a href="mailto:akshatrathore26@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a><a href="https://www.akshxt.me"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 ## 💻 Tech Stack
